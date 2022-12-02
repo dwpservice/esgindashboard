@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "/esgindashboard/static/js/main.d13d7e0b.chunk.js",
+    "runtime-main.js": "/esgindashboard/static/js/runtime-main.b85fe0cd.js",
+    "static/css/2.80a8078b.chunk.css": "/esgindashboard/static/css/2.80a8078b.chunk.css",
+    "static/js/2.cf7b0cd3.chunk.js": "/esgindashboard/static/js/2.cf7b0cd3.chunk.js",
+    "static/js/3.2f98f43e.chunk.js": "/esgindashboard/static/js/3.2f98f43e.chunk.js",
+    "static/js/4.8c263288.chunk.js": "/esgindashboard/static/js/4.8c263288.chunk.js",
+    "index.html": "/esgindashboard/index.html",
+    "static/js/2.cf7b0cd3.chunk.js.LICENSE.txt": "/esgindashboard/static/js/2.cf7b0cd3.chunk.js.LICENSE.txt",
+    "static/js/3.2f98f43e.chunk.js.LICENSE.txt": "/esgindashboard/static/js/3.2f98f43e.chunk.js.LICENSE.txt",
+    "static/js/4.8c263288.chunk.js.LICENSE.txt": "/esgindashboard/static/js/4.8c263288.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/esgindashboard/static/media/roboto-vietnamese-400-normal.3230f9b0.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b85fe0cd.js",
+    "static/css/2.80a8078b.chunk.css",
+    "static/js/2.cf7b0cd3.chunk.js",
+    "static/js/main.d13d7e0b.chunk.js"
+  ]
+}
